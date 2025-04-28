@@ -1,0 +1,243 @@
+.A1{
+	height: 3000px;
+	width: 20%;
+	 background-color: blue;
+	 float: left;
+	 	border-inline: 5px solid black;
+
+	 
+	 
+}
+.A2{
+	height: 100%;
+	width: 79%;
+    background-color: yellow;
+   float: left;
+
+}
+.About{
+	margin-left: 40px;
+	margin-top:50px ;
+}
+.S1{
+	margin-top: 40px;
+	float: left;
+}
+.S2{
+ 	height:400x;
+ 	width: 58%;
+ 	float: left;
+ 	margin-left: 50px;
+  
+
+ }
+ .C1{
+ 	height: 250px;
+ 	width: 49%;
+ 	float: left;
+ 	font-size: 22px;
+  
+
+
+ }
+.C2{
+height: 250px;
+width: 50%;
+float: left;
+font-size: 22px;
+
+}
+.M{
+	height: 100px;
+	width: 100%;
+	background-color: yellow;
+}
+ .rank{
+ 	height: 200px;
+ 	width: 100%;
+ 	background-color: yellow;
+ 	float: left;
+ 	font-size: 50px;
+
+ }
+ .i1{
+ height: 100%;
+ width: 25%;
+ background-color: yellow;
+ float: left;
+ font-size: 40px;
+ align-content: center;
+ text-align:center;
+
+ } 	  
+ .i2{
+ 	height: 100%;
+ width: 25%;
+ background-color: yellow;
+ float: left;
+ font-size: 40px;
+ align-content: center;
+ text-align: center;
+ } 	  	 
+ .i3{
+ 	height: 100%;
+ width: 25%;
+ background-color: yellow;
+ float: left;
+ font-size: 40px;
+ align-content: center;
+ text-align: center;
+ } 	 
+
+ .i4{
+ 	height: 100%;
+ width: 25%;
+ background-color: yellow;
+ float: left;
+ font-size: 40px;
+ align-content: center;
+ text-align: center;
+
+ } 	
+.T1{
+	text-align: center;
+	font-size: 20px;
+	margin-left: 30px;
+}
+.T2{
+	text-align: center;
+	font-size: 20px;
+	margin-left: 30px;
+}
+.T3{
+	text-align: center;
+	font-size: 20px;
+	margin-left: 30px;
+}
+.T4{
+	text-align: center;
+	font-size: 20px;
+	margin-left: 50px;
+}
+.Skills{
+	height: 650px;
+	width: 100%;
+	background-color: skyblue;
+	font-size: 28px;
+	 
+}
+.range1{
+	height: 300px;
+	width: 50%;
+	background-color: gray;
+	float: left;
+	margin-top:30px ;
+	align-content: center;
+	 
+
+}
+.range2{
+	height: 300px;
+	width: 50%;
+	background-color: red;
+	float: left;
+	margin-top: 30px;
+	align-content: center;
+	 
+
+}
+.Resume{
+	height: 1000px;
+	width: 100%;
+	background-color: yellow;
+	font-size: 20px;
+}
+.info1{
+	height:800px ;
+	width: 50%;
+	background-color: gray;
+	float: left;
+
+
+}
+  .info2{
+	height:400px ;
+	width: 40%;
+	background-color:red ;
+	float: left; 
+	 
+
+}
+.V1{
+	height: 250px;
+	width: 3px;
+	background-color: skyblue;
+	margin-left: 35px;
+	 
+}
+.O1{
+	height: 15px;
+	width: 15px;
+	background-color: yellow;
+	border: 3px solid skyblue;
+	border-radius: 100%;
+	margin-left: 27px;
+	float: left;
+}
+.I{
+	 
+	float: left;
+	height: 250px;
+	width: 90%;
+	background-color: yellow;
+}
+.MM{
+	float: left;
+	height: 250px;
+	width: 10%;
+	background-color: red;
+	 
+}
+.O2{
+	height: 15px;
+	width: 15px;
+	background-color: yellow;
+	border: 3px solid skyblue;
+	border-radius: 100%;
+	margin-left: 27px;
+	 
+	 
+
+}
+
+.V2{
+
+	height: 250px;
+	width: 3px;
+	background-color: skyblue;
+	margin-left: 35px;
+	 
+	 
+
+}
+.MMM{
+	float: left;
+	height: 250px;
+	width: 10%;
+	background-color: red;
+	float: left;
+}
+/*.I2{
+	 
+	float: left;
+	height: 250px;
+	width: 90%;
+	background-color: yellow;
+	float: left;
+}*/
+.Abhi1{
+	height: 100px;
+	width: 100%;
+	background-color: skyblue;
+	margin-top: 80px;
+}
